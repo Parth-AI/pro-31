@@ -1,0 +1,9 @@
+class Division{
+     constructor(){
+
+     }
+
+     display(){
+          
+     }
+}

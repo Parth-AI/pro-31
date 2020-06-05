@@ -1,0 +1,9 @@
+class Pinko{
+     constructor(){
+
+     }
+
+     display(){
+          
+     }
+}
